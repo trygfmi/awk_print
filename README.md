@@ -3,7 +3,9 @@
 
 
 
+<div class="wp-block-group">
 <p>このリポジトリは、awkコマンドを実行して任意の文字列を空白で分割して表示します</p>
+</div>
 
 
 
@@ -11,7 +13,9 @@
 
 
 
+<div class="wp-block-group">
 <p>特に無し</p>
+</div>
 
 
 
@@ -19,6 +23,7 @@
 
 
 
+<div class="wp-block-group">
 <p>awkコマンドを実行して各文字列を出力してみてください</p>
 
 
@@ -27,7 +32,15 @@
 
 
 
+<div class="wp-block-group">
 <pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{print $4}'</code></pre>
+
+
+
+<details class="wp-block-details"><summary>出力結果</summary>
+<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>world</code></pre>
+</details>
+</div>
 
 
 
@@ -35,11 +48,19 @@
 
 
 
-<p>※MacPortsを使用しています</p>
+<h4 class="wp-block-heading">MacPorts</h4>
 
 
 
+<div class="wp-block-group">
 <pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{print $4}'</code></pre>
+
+
+
+<details class="wp-block-details"><summary>出力結果</summary>
+<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>world</code></pre>
+</details>
+</div>
 
 
 
@@ -47,11 +68,36 @@
 
 
 
-<p>※MSYS2 MINGW64を使用しています</p>
+<h4 class="wp-block-heading">WSL2</h4>
 
 
 
+<div class="wp-block-group">
 <pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{print $4}'</code></pre>
+
+
+
+<details class="wp-block-details"><summary>出力結果</summary>
+<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>world</code></pre>
+</details>
+</div>
+
+
+
+<h4 class="wp-block-heading">MSYS2 MINGW64</h4>
+
+
+
+<div class="wp-block-group">
+<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{print $4}'</code></pre>
+
+
+
+<details class="wp-block-details"><summary>出力結果</summary>
+<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>world</code></pre>
+</details>
+</div>
+</div>
 
 
 
@@ -68,7 +114,13 @@
 
 
 
-<p>特に無し</p>
+<div class="wp-block-group">
+<p>以下のコマンドを端末に打ち込んでcommand not foundが出なければokです</p>
+
+
+
+<pre class="wp-block-code has-cyan-bluish-gray-background-color has-background"><code>特にありません</code></pre>
+</div>
 
 
 
@@ -76,7 +128,13 @@
 
 
 
-<p>特に無し</p>
+<div class="wp-block-group">
+<p>端末でcommand not foundが出たコマンドを以下のコマンドでインストールしてください</p>
+
+
+
+<pre class="wp-block-code has-cyan-bluish-gray-background-color has-background"><code>特にありません</code></pre>
+</div>
 
 
 
@@ -84,6 +142,7 @@
 
 
 
+<div class="wp-block-group">
 <p>以下のコマンドを実行することで詳細の文字列worldが出力されるはずです</p>
 
 
@@ -93,8 +152,9 @@
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<p class="has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size">world</p>
+<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>world</code></pre></p>
 </details>
+</div>
 </details>
 
 
@@ -108,7 +168,12 @@
 
 
 
-<p>特に無し</p>
+<div class="wp-block-group">
+<p>以下のコマンドをターミナルに打ち込んでcommand not foundが出なければokです</p>
+
+
+
+<pre class="wp-block-code has-cyan-bluish-gray-background-color has-background"><code>特にありません</code></pre>
 
 
 
@@ -124,11 +189,12 @@
 
 
 
-[![MacPortsをインストールするまでの手順](https://ss523971.stars.ne.jp/todo/wp-content/uploads/2025/10/thumbnail_macports_title_1920_1080_2.png,)](https://ss523971.stars.ne.jp/todo/2025/10/02/macports%e3%82%92%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%ab%e3%81%99%e3%82%8b%e3%81%be%e3%81%a7%e3%81%ae%e6%89%8b%e9%a0%86/)
+[![MacPortsをインストールするまでの手順](https://ss523971.stars.ne.jp/todo/wp-content/uploads/2025/10/thumbnail_macports_title_1920_1080_2.png,)](https://ss523971.stars.ne.jp/todo/how-to-install-macports)
 
 
 
-[![MacPortsでインストールしたコマンドのエイリアス設定](https://ss523971.stars.ne.jp/todo/wp-content/uploads/2025/10/thumbnail_macports2.png,)](https://ss523971.stars.ne.jp/todo/2025/10/03/macports%e3%81%a7%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%ab%e3%81%97%e3%81%9f%e3%82%b3%e3%83%9e%e3%83%b3%e3%83%89%e3%81%ae%e3%82%a8%e3%82%a4%e3%83%aa%e3%82%a2%e3%82%b9%e8%a8%ad%e5%ae%9a/)
+[![MacPortsでインストールしたコマンドのエイリアス設定](https://ss523971.stars.ne.jp/todo/wp-content/uploads/2025/10/thumbnail_macports2.png,)](https://ss523971.stars.ne.jp/todo/how-to-setup-macports-alias)
+</div>
 
 
 
@@ -136,7 +202,13 @@
 
 
 
-<p>特に無し</p>
+<div class="wp-block-group">
+<p>ターミナルでcommand not foundが出たコマンドを以下のコマンドでインストールしてエイリアスを設定してください</p>
+
+
+
+<pre class="wp-block-code has-cyan-bluish-gray-background-color has-background"><code>特にありません</code></pre>
+</div>
 
 
 
@@ -144,6 +216,7 @@
 
 
 
+<div class="wp-block-group">
 <p>以下のコマンドを実行することで詳細の文字列worldが出力されるはずです</p>
 
 
@@ -153,8 +226,9 @@
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<p class="has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size">world</p>
+<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>world</code></pre></p>
 </details>
+</div>
 </details>
 
 
@@ -168,15 +242,37 @@
 
 
 
-<p>特に無し</p>
+<div class="wp-block-group">
+<p>以下のコマンドをプロンプトに打ち込んでcommand not foundが出なければokです</p>
 
 
 
-<p>※windowsはMSYS2 MINGW64で確認しています。もしインストールしていない方は以下のリンクからmsys2のインストール手順をご覧ください</p>
+<h5 class="wp-block-heading">WSL2</h5>
 
 
 
-[![[windows] msys2をインストールするまでの手順](https://ss523971.stars.ne.jp/todo/wp-content/uploads/2025/10/msys2_thumbnail_1920_1080.png)](https://ss523971.stars.ne.jp/todo/2025/10/02/windows-msys2%e3%82%92%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%ab%e3%81%99%e3%82%8b%e3%81%be%e3%81%a7%e3%81%ae%e6%89%8b%e9%a0%86/)
+<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+
+
+
+<h5 class="wp-block-heading">MSYS2 MINGW64</h5>
+
+
+
+<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+
+
+
+<p>※windowsはWSL2とMSYS2 MINGW64で確認しています。可能な限りWSL2をインストールしていただいて、もし設定できなかった場合はMSYS2をインストールすることで実行できますが、所々WSL2でしか実行できないコマンドが出てくるかもしれません。WSL2とMSYS2のインストール方法は下記の記事を参考にしてください</p>
+
+
+
+[![[windows] msys2をインストールするまでの手順](https://ss523971.stars.ne.jp/todo/wp-content/uploads/2025/10/thumbnail_WSL2_1920_1080.png)](https://ss523971.stars.ne.jp/todo/how-to-install-wsl2/)
+
+
+
+[![](https://ss523971.stars.ne.jp/todo/wp-content/uploads/2025/10/msys2_thumbnail_1920_1080.png)](https://ss523971.stars.ne.jp/todo/how-to-install-msys2)
+</div>
 
 
 
@@ -184,7 +280,25 @@
 
 
 
-<p>特に無し</p>
+<div class="wp-block-group">
+<p>プロンプトでcommand not foundが出たコマンドを以下のコマンドでインストールしてください</p>
+
+
+
+<h5 class="wp-block-heading">WSL2</h5>
+
+
+
+<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+
+
+
+<h5 class="wp-block-heading">MSYS2 MINGW64</h5>
+
+
+
+<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+</div>
 
 
 
@@ -192,7 +306,12 @@
 
 
 
+<div class="wp-block-group">
 <p>以下のコマンドを実行することで詳細の文字列worldが出力されるはずです</p>
+
+
+
+<h5 class="wp-block-heading">WSL2</h5>
 
 
 
@@ -201,8 +320,23 @@
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<p class="has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size">world</p>
+<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>world</code></pre>
 </details>
+
+
+
+<h5 class="wp-block-heading">MSYS2 MINGW64</h5>
+
+
+
+<pre class="wp-block-code has-cyan-bluish-gray-background-color has-background"><code>echo "hello awk command world" | awk '{print $4}'</code></pre>
+
+
+
+<details class="wp-block-details"><summary>詳細</summary>
+<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>world</code></pre>
+</details>
+</div>
 </details>
 
 
@@ -213,18 +347,3 @@
 
 <p>$0で分割する前の全体の文字列(hello awk command world)を出力します</p>
 
-
-
-<h2 class="wp-block-heading">この記事で使用したコマンドで実行できるお薦め記事</h2>
-
-
-
-<h2 class="wp-block-heading">この記事で使用しているキーボード</h2>
-
-
-
-<p></p>
-
-
-
-<p></p>
