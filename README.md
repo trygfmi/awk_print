@@ -33,7 +33,7 @@
 
 
 <div class="wp-block-group">
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{print $4}'</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{print $4}'</code></pre>
 
 
 
@@ -53,7 +53,7 @@
 
 
 <div class="wp-block-group">
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{print $4}'</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{print $4}'</code></pre>
 
 
 
@@ -73,7 +73,7 @@
 
 
 <div class="wp-block-group">
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{print $4}'</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{print $4}'</code></pre>
 
 
 
@@ -89,7 +89,7 @@
 
 
 <div class="wp-block-group">
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{print $4}'</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{print $4}'</code></pre>
 
 
 
@@ -116,11 +116,11 @@
 
 <div class="wp-block-group">
 <p>以下のコマンドを端末に打ち込んでcommand not foundが出なければokです</p>
-
-
-
-<pre class="wp-block-code has-cyan-bluish-gray-background-color has-background"><code>特にありません</code></pre>
 </div>
+
+
+
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 
 
 
@@ -130,11 +130,11 @@
 
 <div class="wp-block-group">
 <p>端末でcommand not foundが出たコマンドを以下のコマンドでインストールしてください</p>
-
-
-
-<pre class="wp-block-code has-cyan-bluish-gray-background-color has-background"><code>特にありません</code></pre>
 </div>
+
+
+
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 
 
 
@@ -147,12 +147,12 @@
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{print $4}'</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{print $4}'</code></pre>
 
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>world</code></pre></p>
+<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>world</code></pre>
 </details>
 </div>
 </details>
@@ -173,7 +173,7 @@
 
 
 
-<pre class="wp-block-code has-cyan-bluish-gray-background-color has-background"><code>特にありません</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 
 
 
@@ -204,11 +204,11 @@
 
 <div class="wp-block-group">
 <p>ターミナルでcommand not foundが出たコマンドを以下のコマンドでインストールしてエイリアスを設定してください</p>
-
-
-
-<pre class="wp-block-code has-cyan-bluish-gray-background-color has-background"><code>特にありません</code></pre>
 </div>
+
+
+
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 
 
 
@@ -221,12 +221,12 @@
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{print $4}'</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{print $4}'</code></pre>
 
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>world</code></pre></p>
+<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>world</code></pre>
 </details>
 </div>
 </details>
@@ -251,7 +251,7 @@
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 
 
 
@@ -259,7 +259,7 @@
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 
 
 
@@ -289,16 +289,16 @@
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 
 
 
 <h5 class="wp-block-heading">MSYS2 MINGW64</h5>
-
-
-
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 </div>
+
+
+
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 
 
 
@@ -315,7 +315,7 @@
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{print $4}'</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{print $4}'</code></pre>
 
 
 
@@ -329,7 +329,7 @@
 
 
 
-<pre class="wp-block-code has-cyan-bluish-gray-background-color has-background"><code>echo "hello awk command world" | awk '{print $4}'</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{print $4}'</code></pre>
 
 
 
@@ -346,4 +346,3 @@
 
 
 <p>$0で分割する前の全体の文字列(hello awk command world)を出力します</p>
-
